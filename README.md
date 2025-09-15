@@ -17,10 +17,12 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 
 ## Print do(s) wireframe(s) criado
+<img width="1344" height="769" alt="Wireframe" src="https://github.com/user-attachments/assets/af64f6fc-ffc6-47cc-8965-637c4c34b018" />
 
 <<  COLOQUE A IMAGEM AQUI >>
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE <img width="1862" height="934" alt="Home page" src="https://github.com/user-attachments/assets/d952fe7b-4c57-456d-8b53-61ee181bf77f" />
+ IMAGEM AQUI >>
