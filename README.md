@@ -10,10 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Caio Igor Lelis Silva
+- Matricula: 905761
+- Proposta de projeto escolhida: Lugares e Experiências 
+- Breve descrição sobre seu projeto: Página para divulgação de lugares para visitas (museus, parques e etc.)
 
 
 ## Print do(s) wireframe(s) criado
